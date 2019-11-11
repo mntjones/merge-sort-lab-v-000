@@ -1,1 +1,6 @@
+function findMinAndRemoveSorted (array) {
+  
+  
+}
+
 
